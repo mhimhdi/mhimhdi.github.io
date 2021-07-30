@@ -1,2 +1,2 @@
-- ## [دانشگاه](https://github.com/mhimhdi3/PNU_3993_AR)
+- ## [دانشگاه](https://github.com/mhimhdi/University/PNU_3993_AR)
 - ## [رزومه](https://mhimhdi.github.io/Resume1/index.html)
