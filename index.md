@@ -1,2 +1,3 @@
 - ## [دانشگاه](https://github.com/mhimhdi/PNU_3993_AR)
-- ## [رزومه](https://mhimhdi.github.io/Resume1/index.html)
+- ## [رزومه اول](https://mhimhdi.github.io/Resume1/index.html)
+- ## [رزومه دوم](https://mhimhdi.github.io/Resume2/index.html)
