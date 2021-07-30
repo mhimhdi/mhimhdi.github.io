@@ -1,5 +1,3 @@
-## Welcome to GitHub Pages
-
 ### به صفحه من خوش آمدید:
 - [دانشگاه](https://github.com/mhimhdi3/PNU_3993_AR)
 - [رزومه](https://mhimhdi3.github.io/Resume1/index.html)
