@@ -19998,7 +19998,7 @@ a.u-button-style.u-border-20 {
 }
 /*begin-variables font-family*/
 .u-body {
-  font-family: Lato,sans-serif;
+  font-family: 'Open Sans',sans-serif;
 }
 h1,
 h2,
@@ -20006,7 +20006,7 @@ h3,
 h4,
 h5,
 h6 {
-  font-family: 'Source Sans Pro',sans-serif;
+  font-family: 'Cabin Sketch';
 }
 /*end-variables font-family*/
 /*begin-variables color*/
@@ -20026,10 +20026,10 @@ h6 {
 /*end-variables color*/
 /*begin-variables font*/
 .u-custom-font.u-text-font {
-  font-family: Lato,sans-serif !important;
+  font-family: 'Open Sans',sans-serif !important;
 }
 .u-custom-font.u-heading-font {
-  font-family: 'Source Sans Pro',sans-serif !important;
+  font-family: 'Cabin Sketch' !important;
 }
 /*end-variables font*/
 /*begin-variables colors*/

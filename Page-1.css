@@ -13,6 +13,7 @@
   font-size: 1.875rem;
   letter-spacing: 1px;
   background-image: none;
+  font-family: Cairo;
   font-weight: 700;
   margin: 100px 0 0 auto;
   padding: 27px 93px 28px 92px;
@@ -24,6 +25,7 @@
   font-size: 1.875rem;
   letter-spacing: 1px;
   background-image: none;
+  font-family: Cairo;
   font-weight: 700;
   margin: 20px 0 0 auto;
   padding: 27px 93px 28px 92px;
@@ -35,17 +37,18 @@
   font-size: 1.875rem;
   letter-spacing: 1px;
   background-image: none;
+  font-family: Cairo;
   font-weight: 700;
   margin: 20px 0 0 auto;
   padding: 27px 89px 28px 88px;
 }
 
 .u-section-1 .u-btn-4 {
-  border-style: solid;
-  text-transform: uppercase;
   font-size: 1.875rem;
   letter-spacing: 1px;
-  background-image: none;
+  border-style: solid;
+  text-transform: uppercase;
+  font-family: Cairo;
   font-weight: 700;
   margin: 20px 0 60px auto;
   padding: 27px 107px 28px;
